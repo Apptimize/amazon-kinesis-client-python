@@ -57,6 +57,7 @@ PYTHON_REQUIREMENTS = [
     'mock'
 
 ]
+
 REMOTE_MAVEN_PACKAGES = [
         # (group id, artifact id, version),
         ('com.amazonaws', 'amazon-kinesis-client', '1.7.2'),
